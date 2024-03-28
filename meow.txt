@@ -1,1 +1,3 @@
 # Meow
+import flask as Flask
+app = Flask.main(__name__)
